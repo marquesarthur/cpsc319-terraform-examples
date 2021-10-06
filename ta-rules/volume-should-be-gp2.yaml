@@ -1,0 +1,2 @@
+resource: aws_ebs
+params: type == gp2
